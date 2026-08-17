@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://posterppkn1.netlify.app/sitemap.xml
